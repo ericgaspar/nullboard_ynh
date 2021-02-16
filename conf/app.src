@@ -1,6 +1,6 @@
-SOURCE_URL=https://github.com/hgentry/81/archive/gh-pages.tar.gz
-SOURCE_SUM=c7d2052999ae4d2e0c5fd5ff1dd6bfb794b7f2bc5caa63f4fbc5e195509c00b9
+SOURCE_URL=https://github.com/apankrat/nullboard/archive/d449da9f54677ef9ef5c066106e78c0b16be996a.tar.gz
+SOURCE_SUM=1126b02a8626e6685c4b6f1892ea43a6e3aa7a04cc91243bea672d10268435e8
 SOURCE_SUM_PRG=sha256sum
 SOURCE_FORMAT=tar.gz
 SOURCE_IN_SUBDIR=true
-SOURCE_FILENAME=81-gh-pages.tar.gz
+SOURCE_FILENAME=

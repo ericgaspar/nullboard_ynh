@@ -1,11 +1,11 @@
 # Nullboard for YunoHost
 
 [![Integration level](https://dash.yunohost.org/integration/nullboard.svg)](https://dash.yunohost.org/appci/app/nullboard) ![](https://ci-apps.yunohost.org/ci/badges/nullboard.status.svg) ![](https://ci-apps.yunohost.org/ci/badges/nullboard.maintain.svg)  
-[![Install nullboard with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=nullboard)
+[![Install Nullboard with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=nullboard)
 
 *[Lire ce readme en français.](./README_fr.md)*
 
-> *This package allow you to install nullboard quickly and simply on a YunoHost server.  
+> *This package allow you to install Nullboard quickly and simply on a YunoHost server.  
 If you don’t have YunoHost, please see [here](https://yunohost.org/#/install) to know how to install and enjoy it.*
 
 ## Overview
@@ -28,6 +28,7 @@ Nullboard is a minimalist take on a kanban board / a task list manager, designed
 ## Links
 
  * Report a bug: https://github.com/YunoHost-Apps/nullboard_ynh/issues
+ * App website: https://nullboard.io/
  * Upstream app repository: https://github.com/apankrat/nullboard
  * YunoHost website: https://yunohost.org/
 

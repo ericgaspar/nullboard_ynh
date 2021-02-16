@@ -1,6 +1,6 @@
 # Nullboard pour YunoHost
 
-[![Integration level](https://dash.yunohost.org/integration/nullboard.svg)](https://dash.yunohost.org/appci/app/nullboard) ![](https://ci-apps.yunohost.org/ci/badges/nullboard.status.svg) ![](https://ci-apps.yunohost.org/ci/badges/243.maintain.svg)  
+[![Integration level](https://dash.yunohost.org/integration/nullboard.svg)](https://dash.yunohost.org/appci/app/nullboard) ![](https://ci-apps.yunohost.org/ci/badges/nullboard.status.svg) ![](https://ci-apps.yunohost.org/ci/badges/nullboard.maintain.svg)  
 [![Installer Nullboard avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=nullboard)
 
 *[Read this readme in english.](./README.md)* 
@@ -10,7 +10,7 @@ Si vous n’avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) po
 
 ## Vue d’ensemble
 
-Nullboard est une version minimaliste d'un tableau Kanban / d'un gestionnaire de liste de tâches, conçu pour être compact, lisible et rapide à utiliser. 
+Nullboard est une version minimaliste d'un tableau Kanban/gestionnaire de liste de tâches, conçu pour être compact, lisible et rapide à utiliser. 
 
 ## Captures d’écran
 
@@ -22,13 +22,13 @@ Nullboard est une version minimaliste d'un tableau Kanban / d'un gestionnaire de
 
 #### Architectures supportées
 
-* x86-64 - [![Build Status](https://ci-apps.yunohost.org/ci/logs/nullboard%20%28Apps%29.svg)](https://ci-apps.yunohost.org/ci/apps/nullboard/)
+* x86-64 - [![Build Status](https://ci-apps.yunohost.org/ci/logs/nullboard%40%28Apps%29.svg)](https://ci-apps.yunohost.org/ci/apps/nullboard/)
 * ARMv8-A - [![Build Status](https://ci-apps-arm.yunohost.org/ci/logs/nullboard%20%28Apps%29.svg)](https://ci-apps-arm.yunohost.org/ci/apps/nullboard/)
 
 ## Liens
 
  * Signaler un bug : https://github.com/YunoHost-Apps/nullboard_ynh/issues
- https://nullboard.io/
+ * Site de l'application : https://nullboard.io/
  * Dépôt de l’application principale : https://github.com/apankrat/nullboard
  * Site web YunoHost : https://yunohost.org/
 

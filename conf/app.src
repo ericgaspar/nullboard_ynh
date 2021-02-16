@@ -1,0 +1,6 @@
+SOURCE_URL=https://github.com/hgentry/81/archive/gh-pages.tar.gz
+SOURCE_SUM=c7d2052999ae4d2e0c5fd5ff1dd6bfb794b7f2bc5caa63f4fbc5e195509c00b9
+SOURCE_SUM_PRG=sha256sum
+SOURCE_FORMAT=tar.gz
+SOURCE_IN_SUBDIR=true
+SOURCE_FILENAME=81-gh-pages.tar.gz
